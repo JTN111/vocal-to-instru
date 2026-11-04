@@ -15,6 +15,7 @@ outputs/*
 # Private datasets and recordings
 data/samples/*
 !data/samples/.gitkeep
+data/input/
 
 # Model artifacts
 *.h5
