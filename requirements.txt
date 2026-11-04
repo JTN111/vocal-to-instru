@@ -1,0 +1,7 @@
+numpy
+scipy
+librosa
+soundfile
+pretty_midi
+basic-pitch
+streamlit==1.40.2
